@@ -11,7 +11,7 @@
 
 
 
-I'm a software developer based in Sweden, focused on TypeScript, React and modern web architecture. I care a lot about UX and try to build solutions that are clean, accessible and actually pleasant to use.
+I'm a software developer based in Sweden, focused on TypeScript, React and modern web architecture. I care a lot about UX and try to build stuff that are clean, accessible and fun.
 
 
 ### 💻 Experience in
